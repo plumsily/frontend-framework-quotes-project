@@ -1,2 +1,2 @@
-# react-quotes-project
- Front end development project to create a random quote machine using React Redux
+# frontend-framework-quotes-project
+ Front end framework project to create a random quote machine using Bootstrap and jQuery!
